@@ -23,7 +23,9 @@ Uses **Hugging Face**, **Groq**, or **Together AI** APIs — all with **free tie
 ![Chatbot Popup](assets/screenshots/chat-open.png)
 
 ### 🟠 Chatbot Conversation Example  
-![Chatbot Conversation](assets/screenshots/chat-conversation.png)
+![Chatbot Conversation](assets/screenshots/chat-conversation1.png)
+![Chatbot Conversation](assets/screenshots/chat-conversation2.png)
+
 
 ---
 
@@ -132,4 +134,5 @@ Creator of Statica Free Cloud RAG Chatbot
 ```
 
 ---
+
 
