@@ -3,6 +3,13 @@
 A free, lightweight, cloud-powered RAG chatbot plugin for WordPress & WooCommerce.  
 Uses **Hugging Face**, **Groq**, or **Together AI** APIs — all with **free tiers** available.
 
+---
+
+## 🛠 Development Note  
+This plugin was **fully developed by Shantanu Harkulkar while working on AI automation solutions for Statica**, with a focus on building a free, efficient, cloud-powered RAG chatbot that any website can use.  
+It is designed in a personalized way for Statica’s workflow, but you can use it as a reference to build your own version — or you can take my help if you need guidance.
+
+---
 ## 🚀 Features
 - 🧠 Cloud-based AI chatbot (no local models needed)  
 - 📑 Automatic RAG indexing for:
@@ -21,7 +28,7 @@ Uses **Hugging Face**, **Groq**, or **Together AI** APIs — all with **free tie
 
 ### 🟠 Chatbot Popup UI  
 ![Chatbot Popup](assets/screenshots/chat-open.png)
-
+--
 ### 🟠 Chatbot Conversation Example  
 ![Chatbot Conversation](assets/screenshots/chat-conversation1.png)
 ![Chatbot Conversation](assets/screenshots/chat-conversation2.png)
@@ -131,8 +138,6 @@ GPL v2 or later
 ## 👨‍💻 Author  
 **Shantanu Harkulkar**  
 Creator of Statica Free Cloud RAG Chatbot  
-```
 
----
 
 
